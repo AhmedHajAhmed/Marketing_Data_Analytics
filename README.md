@@ -4,7 +4,7 @@
 
 This notebook contains an analysis on some marketing data. The goals for this project are the following:
 * Get acquainted with the data
-* Clean and prepare the data for analysis
+* Clean and prepare the data for analysis  
 * Develop some questions for analysis
 * Analyze variables within the data to gain patterns and insights on these questions
 
